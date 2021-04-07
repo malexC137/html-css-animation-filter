@@ -48,7 +48,7 @@
 }
 .ex-10-icon {
     font-size: 60px;
-    animation: ex10animated 2s infinite;
+    animation: ex10animated 2s linear infinite;
 }
 .ex-11-icon {
     font-size: 60px;
@@ -130,7 +130,7 @@
 }
 
 .ex-11-icon:hover {
-    animation: ex11animated 2s infinite;
+    animation: ex11animated 2s linear infinite;
 }
 
 .ex-12-button:hover .ex-12-top-white {
